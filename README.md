@@ -1,7 +1,7 @@
 <div align="center">
 
   # Hi there, I'm Potli Enosh Kumar Reddy 👋
-  ### B.Tech Computer Science & Engineering @ NIT Agartala (CGPA: 9.36 / 10.0)
+  ### B.Tech Computer Science & Engineering @ NIT Agartala (CGPA: 9.38 / 10.0)
   
   <p align="center">
     <a href="https://linkedin.com/in/potli-enosh-kumar-reddy-951b82325"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
